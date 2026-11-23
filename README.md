@@ -1,2 +1,3 @@
-# cutting-edge
-Cutting Edge · Live demo
+# Cutting Edge
+
+Live demo and questionnaire, prepared by MIA Technology. Sample data only.
